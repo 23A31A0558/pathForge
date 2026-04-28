@@ -1,2 +1,2 @@
-# pathForge
+# PathForge Frontend
 Web Project 
